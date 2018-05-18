@@ -10,7 +10,7 @@ There's a lof of FUD going around about XRP. To prevent the spreading of misinfo
 2. Clone your fork to a local copy
 3. Make sure you have the most recent version of all the Bingo-cards. The command to download the most recent cards is available at [https://fudbingo.nodum.io/git/](https://fudbingo.nodum.io/git/)
 4. Commit
-5. Pull request
+5. [Pull request](https://github.com/WietseWind/xrp-fud-bingo/pull/new/master)
 
 Now you can make changes (you can use **markdown** syntax in the FUD debunk description). End your Bingo-card with newline(s), triple dash, newline(s) and add meta data.
 
