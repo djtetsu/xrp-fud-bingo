@@ -2,7 +2,7 @@
 
 ### [https://fudbingo.com](https://fudbingo.com/)
 
-There's a lof of FUD going around about XRP. To prevent the spreading of misinformation and to educate the [#XRPCommunity](https://twitter.com/search?q=xrpcommunity) is actively replying. **Because the [#XRPCommunity](https://twitter.com/search?q=xrpcommunity) rather spends time keeping up with the good news**, we curated the most common misunderstandings and FUD so we can just copy-paste links.
+There's a lof of FUD going around about XRP. To prevent the spreading of misinformation and to educate the [#XRPCommunity](https://twitter.com/search?q=xrpcommunity) is actively replying. **Because the [#XRPCommunity](https://twitter.com/search?q=xrpcommunity) would rather spend time keeping up with good news**, we curated the most common misunderstandings and FUD so we can just copy-paste links.
 
 # Contribute
 
