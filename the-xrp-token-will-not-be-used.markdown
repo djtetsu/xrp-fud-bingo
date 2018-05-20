@@ -1,4 +1,4 @@
-# The XRP token won't be used
+# The XRP token will not be used
     
 **The XRP Token is being used by xRapid Partners.**
 
@@ -25,5 +25,5 @@ Let me say that again because it's super important:
 
 gif: https://media.giphy.com/media/PiINDCcGIJEu4/giphy.gif
 tweet: https://twitter.com/JoelKatz/status/977752467562684417
-slug: the-xrp-token-won-t-be-used
+slug: the-xrp-token-will-not-be-used
 id: 5af86699bbc48b156296df1d
