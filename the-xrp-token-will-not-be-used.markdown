@@ -14,7 +14,7 @@ But, here's why some are ALREADY using, and WILL ALL use XRP eventually. Ripple'
 
 The first adoption step puts the option to use XRP right in front of the banks' noses. And while at this time it may seem irrelevant to their existing infrastructure, it will be profoundly easy to start using XRP if they get curious. Why would they want to use XRP then?
 
-Tt would take very little effort to start using the integrated xRapid feature. They would save an additional 30% on transfer fees. Their competitors are using it, undercutting them and taking business away and most importantly: **eliminates nostro accounts!**
+It would take very little effort to start using the integrated xRapid feature. They would save an additional 30% on transfer fees. Their competitors are using it, undercutting them and taking business away and most importantly: **eliminates nostro accounts!**
 
 Let me say that again because it's super important:
 **USING XRP ELIMINATES THE NEED FOR NOSTRO ACCOUNTS!!!...**
